@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package tfar.aggressiveanimals;
 
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +13,6 @@ public class ExampleMod implements ModInitializer {
 
         // Use Fabric to bootstrap the Common mod.
         Constants.LOG.info("Hello Fabric world!");
-        CommonClass.init();
+        AggressiveAnimals.init();
     }
 }

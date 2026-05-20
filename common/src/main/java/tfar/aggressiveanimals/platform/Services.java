@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package tfar.aggressiveanimals.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import tfar.aggressiveanimals.Constants;
+import tfar.aggressiveanimals.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

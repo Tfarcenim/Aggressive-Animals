@@ -7,7 +7,7 @@
     "mixins": [
     ],
     "client": [
-        "MixinTitleScreen"
+      "tfar.aggressiveanimals.mixin.MixinTitleScreen"
     ],
     "server": [
     ],
